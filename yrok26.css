@@ -1,0 +1,32 @@
+
+li {
+    text-align: left;
+    line-height: 3;
+}
+#h22 {
+    font-size: 3em;
+    text-align: center;
+    text-decoration: underline;
+}
+
+p {
+    color: #523634;
+    font-size: 1em;
+    text-align: left;
+    margin-top: 10px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+body {
+    background-color: #523634;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 10px;
+    background-color: #DDC5A2; 
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
